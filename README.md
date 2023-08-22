@@ -64,13 +64,21 @@ pip pip install -r requirements.txt
 <img src="pics/f (6).jpeg?raw=true" height="32.5%" width="25.5%" alt="2e" /> 
 </p> 
 
+## Conclusion
+In the study presented an in-depth analysis of various machine learning models for a medicine recommendation system. Notably, the Multinomial Naive Bayes and Logistic Regression models consistently demonstrated impressive accuracy and F1 scores, showcasing their potential for accurate medication predictions. While the Linear SVC model performed similarly, the K-Nearest Neighbors model exhibited limitations in accuracy and effectiveness. These findings emphasize the significance of robust model selection in enhancing medical recommendations. Moving forward, further refinements and optimizations are needed to address the challenges posed by the K-Nearest Neighbors approach, with the ultimate aim of providing an efficient and reliable solution for personalized medicine suggestions.
+
 ## Citation
 ```
-@article{LI2022104759,
-author = {Xinjie Li and Guojia Hou and Kunqian Li and Zhenkuan Pan},
-title = {Enhancing underwater image via adaptive color and contrast enhancement, and denoising},
-journal = {Engineering Applications of Artificial Intelligence},
-doi = {https://doi.org/10.1016/j.engappai.2022.104759},
+
+@inproceedings{komal_kumar_drug_2021,
+	title = {A Drug Recommendation System for Multi-disease in Health Care Using Machine Learning},
+	doi = {10.1007/978-981-15-5341-7_1},
+	booktitle = {Advances in Communication and Computational Technology},
+	publisher = {Springer Nature},
+	author = {Komal Kumar, N. and Vigneswari, D.},
+	date = {2021},
+	keywords = {Data mining, Drug, Health care, Machine learning, Prescription},
 }
+
 ```
 
